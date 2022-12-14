@@ -1,4 +1,4 @@
-#!/usr/bin/env code
+#! /usr/bin/env node
 
 // Goal: Make an interactive guess game
 
