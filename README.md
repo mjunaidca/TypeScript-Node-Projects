@@ -15,6 +15,9 @@
 <h3>Project 3: To Do List project</h3>
   <p>  <b>Try it yourself:</b> npx mjs-todolist </p>
   
+  <h3>Project 4: Currency Converter project</h3>
+  <p>  <b>Try it yourself:</b> npx mjs-currencyconverter </p>
+  
 <h3>Project 5: Word Counter Project</h3>
 <p>  <b>Try it yourself:</b> npx  mjs-wordcounter </p>
   
