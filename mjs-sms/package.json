@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "./lib/index.js",
   "directories": {
     "lib": "lib"
   },
