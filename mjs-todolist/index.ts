@@ -13,7 +13,7 @@ import { delTask } from "./ToDoFunctions/delTask.js";
 
 let welcome = () => {console.log(chalk.green(`\nThe Hardest Part is starting out, rest is just Fun and Excitement\n`))};
 
-let toDoList: string[] = ["Practice Coding", "Complete Freelance Projects", "Start Off Page SEO", "Plan Next Month", "Take PIAC Classes"];
+let toDoList: string[] = ["Practice Coding", "Complete Freelance Projects", "Start Work", "Plan Next Month", "Take Coding Classes"];
 
 export default async function toDoApp() {    
 
