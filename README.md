@@ -13,7 +13,7 @@
   <a href = "https://user-images.githubusercontent.com/28400845/211151380-d78749d3-b173-4490-8fd6-bbe7f45bab4a.png">  Visualize The ATM Project Flow </a>
   
 <h3>Project 3: To Do List project</h3>
-  <p>  <b>Try it yourself:</b> mjs-todolist </p>
+  <p>  <b>Try it yourself:</b> npx mjs-todolist </p>
   
 <h3>Project 6: Student Management System</h3>
   <p>   <b>Try it yourself:</b> npx mjs-sms </p>
