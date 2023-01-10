@@ -38,7 +38,6 @@ async function welcome() {
 
     console.log("\nWelcome to MJS Currency Converter\n");
     
-    
 }
 
 
@@ -106,7 +105,7 @@ async function converter(){
                     console.log(answer.Amount * EURTOPKR);
 
                 } else {
-
+                    console.log(answer.Amount);
                 }
                 break;
         }
