@@ -24,3 +24,7 @@
 <h3>Project 6: Student Management System</h3>
   <p>   <b>Try it yourself:</b> npx mjs-sms </p>
   <a href = "https://user-images.githubusercontent.com/28400845/211277612-a1a240b1-8c3d-4e82-a931-4f6f49d02cdd.png">Visualize The SMS Project Flow </a>
+  
+  <h3>Project 8: Quiz System</h3>
+  <p>   <b>Try it yourself:</b> npx mjs-quiz </p>
+
