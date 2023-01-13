@@ -34,3 +34,5 @@
 <h3>Project 9: Countdown Timer</h3>
   <p>   <b>Try it yourself:</b> npx mjs-countdowntimer </p>
 
+<h3>Project 10: OOP Intro Application</h3>
+  <p>   <b>Try it yourself:</b> npx mjs-oop-application </p>
