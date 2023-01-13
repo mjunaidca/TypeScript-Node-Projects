@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 let months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
