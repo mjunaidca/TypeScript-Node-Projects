@@ -55,8 +55,6 @@ ${chalk.yellowBright(`\tKill all enemies...and get out of the Dungeon!`)}`);
 }
 
 async function game() {
-    console.log(chalk.greenBright('=============================================================='));
-
         
         let enemyHealth = Math.floor(Math.random()*maxEnemyHealth)+1;
         let enemy = enemies[Math.floor(Math.random()*enemies.length)];
